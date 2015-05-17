@@ -2,3 +2,7 @@ site_name: Izzat Mukhanov
 repo_url: https://github.com/izzatbek
 
 theme: yeti
+theme_dir: ./custom_theme
+
+site_description: Izzatbek Mukhanov's personal web site
+site_author: Izzat Mukhanov
