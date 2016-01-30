@@ -3,11 +3,11 @@
 ---
 
 <img src="img/me.png" width="13%" height="auto" align="right">
-[Parc scientifique de la Haute Borne](http://www.inria.fr/centre/lille)<br>
-40, avenue Halley - Bât B - 106 - Park Plaza<br>
-59650 Villeneuve d'Ascq - France<br>
 Phone: +33 6 66 51 75 71<br>
-[izzatbek@gmail.com](mailto:izzatbek@gmail.com)
+E-mail: [izzatbek@gmail.com](mailto:izzatbek@gmail.com)<br>
+Web-site: [izzatbek.github.io](https://izzatbek.github.io)<br>
+Location: Lille, France<br>
+Age: 25 years old
 
 ---
 
@@ -81,7 +81,8 @@ Company: [BePro](http://bepro.uz/en/)
 	* HTML, CSS, Markdown, Latex
 * Familiar:
 	* ROS, Robot Programming (Val/V+), Catia, Modeling of Robots
-	* Objective-C, Pharo, C#.NET, PHP, SQL, JavaScript
+	* JavaScript, Node.js, three.js
+	* Objective-C, Pharo, C#.NET, PHP, SQL
 	* OpenGL, OpenCV, CUDA
 * Theoretical background:
 	* Computer Vision, Machine Learning, Artificial Intelligence
@@ -110,7 +111,7 @@ and analytical skills
 ### Languages
 
 * English - fluent
-* French - advanced
+* French - fluent
 * Russian - native
 * Uzbek - native
 
