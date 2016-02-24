@@ -12,5 +12,5 @@ site:
 
 pdf:
 	gimli -file docs/index.md -outputfilename ../cv
-	gimli -file docs/cv_francais.md -outputfilename ../cv_francais
+	gimli -file docs/cv_francais.md -outputfilename ../cv_fr
 	@echo Updated CV
