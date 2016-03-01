@@ -13,8 +13,10 @@ Age: 25 years old
 
 ### Summary
 
-* I'm an engineer who likes programming, learning and team-working
-* I prefer simplicity over complexity and knowledge over ignorance
+<p style="padding-left:2em;">
+I'm an engineer who likes programming, learning and team-working.<br>
+I prefer simplicity over complexity and knowledge over ignorance.
+</p>
 
 ---
 
@@ -54,8 +56,8 @@ Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/) with
 
 * **Intern** (Python)
 <span style="float:right;">2013 (4 months)</span><br>
-Development of [OpenSymoro+](https://github.com/symoro/symoro) (SYmbolic MOdeling of RObots)<br>
-3D-Graphics, Symbolic Computing and UI using *PyOpenGL* and *wxPython*<br>
+Development of [OpenSymoro+](https://github.com/symoro/symoro) (SYmbolic MOdeling of RObots),<br>
+including 3D visualization, Symbolic Computing and UI using *PyOpenGL* and *wxPython*<br>
 Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/) with 
 [Wisama Khalil](https://scholar.google.fr/citations?user=cgizGIoAAAAJ&hl=en)
 

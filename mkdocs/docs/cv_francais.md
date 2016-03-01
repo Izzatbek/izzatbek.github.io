@@ -13,8 +13,10 @@ Addresse : Lille, France<br>
 
 ### Présentation
 
-* Je suis un ingénieur qui adore la programmation, l'apprentissage et le travail d'équipe.
-* Je préfère la simplicité à la complexité et la connaissance à l'ignorance.
+<p style="padding-left:2em;">
+Je suis un ingénieur qui adore la programmation, l'apprentissage et le travail d'équipe.<br>
+Je préfère la simplicité à la complexité et la connaissance à l'ignorance.
+</p>
 
 ---
 
@@ -34,7 +36,7 @@ Addresse : Lille, France<br>
 
 * **Ingénieur CDD** (C, C++, Python, Node.js)
 <span style="float:right;">2014 - 2016</span><br>
-Amélioration et développement d'une bibliothèque multi-plateforme [libpointing](http://libpointing.org)<br>
+Amélioration et développement de la bibliothèque multi-plateforme [libpointing](http://libpointing.org)<br>
 offrant un accès direct aux dispositifs de pointage USB-HID<br>
 et permettant d’appliquer différentes fonctions de transfert.<br>
 Création des bindings *Java*, *Python*, *Node.js*, des paquets *npm*, *apt*, *brew*, etc.<br>
@@ -48,31 +50,31 @@ et
 Implémentation d'un système de détection et suivi de piétons
 [[mémoire]](https://dl.dropboxusercontent.com/u/61610962/thesis.pdf)
 [[vidéo]](https://www.youtube.com/watch?v=o-HAwKvbs8c)<br>
-Implémentation d'algorithmes du *Machine Learning* et *Computer Vision*<br>
+Implémentation d'algorithmes de *Machine Learning* et *Computer Vision*<br>
 Laboratoire : [IRCCyN](http://www.irccyn.ec-nantes.fr/en/), encadrement par :
 [Philippe Martinet](http://www.irccyn.ec-nantes.fr/~martinet/home.html)
 
 * **Stagiaire** (Python) 
 <span style="float:right;">2013 (4 mois)</span><br>
-Développement de [OpenSymoro+](https://github.com/symoro/symoro) (SYmbolic MOdeling of RObots)<br>
-Graphiques 3D et de l'interface utilisateur en utilisant *PyOpenGL* et *wxPython*<br>
+Développement de [OpenSymoro+](https://github.com/symoro/symoro) (SYmbolic MOdeling of RObots),<br>
+comprenant une visualisation 3D et l'interface utilisateur en utilisant *PyOpenGL* et *wxPython*<br>
 Laboratoire : [IRCCyN](http://www.irccyn.ec-nantes.fr/en/), encadrement par :
 [Wisama Khalil](https://scholar.google.fr/citations?user=cgizGIoAAAAJ&hl=en)
 
 * **Ingénieur** logiciel (Objective-C)
 <span style="float:right;">2011 - 2012 (8 mois)</span><br>
-Développement d'applications client-serveur pour iOS, des jeux en *Cocos2D*<br>
+Développement d'applications client-serveur pour iOS, et de jeux en *Cocos2D*<br>
 Entreprise : [SSD](http://www.ssdsoftwaresolutions.com)
 
 * **Stagiaire**, développeur (C/C++)
 <span style="float:right;">2010 - 2011 (10 mois)</span><br>
 Développement bas niveau d'API pour traiter les disques Blu-ray<br>
-Implémentation d'un système du logging pour ce projet<br>
+Implémentation d'un système de logging pour ce projet<br>
 Entreprise : ProDVD
 
 * **Stagiaire**, développeur de logiciels (C#.NET)
 <span style="float:right;">2009 - 2010 (13 mois)</span><br>
-Développement du logiciel pour cataloguer des livres des bibliothèques de la ville<br>
+Développement d'un logiciel pour cataloguer les livres de la bibliothèque municipale<br>
 Gestion de base de données (Microsoft SQL)<br>
 Entreprise : [BePro](http://bepro.uz/en/)
 
@@ -80,9 +82,9 @@ Entreprise : [BePro](http://bepro.uz/en/)
 
 ---
 
-### Connaissances
+### Compétences
 
-* Compétent :
+* Maîtrisées :
 	* C, C++, Python
 	* Développement multi-plateformes, documentation
 	* Création de paquets d'installation (OS X, Linux, Windows)
@@ -99,9 +101,9 @@ Entreprise : [BePro](http://bepro.uz/en/)
 	* Programmation en Val/V+ pour les robots industriels
 * Connaissances théoriques :
 	* Computer Vision, Machine Learning, Intelligence Artificielle
-	* Programmation, modélisation, control des robots
+	* Programmation, Modélisation, Contrôle de robots
 	* Algorithmes et Structures de Données
-	* Mathématiques, modélisation, simulation
+	* Mathématiques, Modélisation, Simulation
 
 ---
 
