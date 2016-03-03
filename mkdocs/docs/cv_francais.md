@@ -56,8 +56,8 @@ Laboratoire : [IRCCyN](http://www.irccyn.ec-nantes.fr/en/), encadrement par :
 
 * **Stagiaire** (Python) 
 <span style="float:right;">2013 (4 mois)</span><br>
-Développement de [OpenSymoro+](https://github.com/symoro/symoro) (SYmbolic MOdeling of RObots),<br>
-comprenant une visualisation 3D et l'interface utilisateur en utilisant *PyOpenGL* et *wxPython*<br>
+Développement de [OpenSymoro+](https://github.com/symoro/symoro) (SYmbolic MOdeling of RObots), comprenant<br>
+une visualisation 3D et l'interface utilisateur en utilisant *PyOpenGL* et *wxPython*<br>
 Laboratoire : [IRCCyN](http://www.irccyn.ec-nantes.fr/en/), encadrement par :
 [Wisama Khalil](https://scholar.google.fr/citations?user=cgizGIoAAAAJ&hl=en)
 
@@ -72,10 +72,9 @@ Développement bas niveau d'API pour traiter les disques Blu-ray<br>
 Implémentation d'un système de logging pour ce projet<br>
 Entreprise : ProDVD
 
-* **Stagiaire**, développeur de logiciels (C#.NET)
+* **Stagiaire**, développeur de logiciels (C#.NET, SQL)
 <span style="float:right;">2009 - 2010 (13 mois)</span><br>
-Développement d'un logiciel pour cataloguer les livres de la bibliothèque municipale<br>
-Gestion de base de données (Microsoft SQL)<br>
+Développement d'un logiciel pour cataloguer les livres de la bibliothèque <br>municipale et gestion de base de données<br>
 Entreprise : [BePro](http://bepro.uz/en/)
 
 <!--<br><br><br><br><br><br><br><br><br><br><br><br>-->

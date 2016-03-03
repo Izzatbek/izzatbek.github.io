@@ -50,14 +50,14 @@ and
 Implementation of Pedestrian Detection and Tracking system
 [[thesis]](https://dl.dropboxusercontent.com/u/61610962/thesis.pdf)
 [[video]](https://www.youtube.com/watch?v=o-HAwKvbs8c)<br>
-using Computer Vision and Machine Learning engineer algorithms<br>
+using Computer Vision and Machine Learning algorithms<br>
 Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/) with 
 [Philippe Martinet](http://www.irccyn.ec-nantes.fr/~martinet/home.html)
 
 * **Intern** (Python)
 <span style="float:right;">2013 (4 months)</span><br>
 Development of [OpenSymoro+](https://github.com/symoro/symoro) (SYmbolic MOdeling of RObots),<br>
-including 3D visualization, Symbolic Computing and UI using *PyOpenGL* and *wxPython*<br>
+including 3D visualization and UI using *PyOpenGL* and *wxPython*<br>
 Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/) with 
 [Wisama Khalil](https://scholar.google.fr/citations?user=cgizGIoAAAAJ&hl=en)
 
