@@ -2,6 +2,8 @@ site_name: Izzat Mukhanov
 site_url: https://izzatbek.github.io
 repo_url: https://github.com/izzatbek
 
+google_analytics: ['UA-77054143-1', 'izzatbek.github.io']
+
 theme: yeti
 theme_dir: ./custom_theme
 
@@ -9,5 +11,5 @@ site_description: Izzatbek Mukhanov's personal web site
 site_author: Izzat Mukhanov
 
 pages:
-    - 'Home': 'index.md'
-    - 'En Français': 'cv_francais.md'
+    - 'English': 'index.md'
+    - 'Français': 'cv_francais.md'
