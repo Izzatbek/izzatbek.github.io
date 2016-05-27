@@ -85,17 +85,18 @@ Company: [BePro](http://bepro.uz/en/)
 ### Professional Skills
 
 * Knowledgeable:
-	* C, C++, Python
+	* **C, C++, Python**
 	* Cross-platform development, documentation
 	* Building, and packaging (OS X, Linux, Windows)
 	* Git, Mercurial, SVN
 	* Design Patterns, Test Driven Development
+	* Continuous Integration, Deployment (Travis, Jenkins, Appveyor)
 	* Matlab
 	* JavaScript, Node.js, npm, Three.js, jQuery
 	* HTML, CSS, Bootstrap, Markdown, Latex
+	* Multi-threaded, real-time applications
 * Familiar:
 	* Objective-C, Pharo, C#.NET, PHP, SQL
-	* Continuous integration, Jenkins
 	* OpenGL, OpenCV
 	* ROS (Robot Operating System)
 	* Programming in Val/V+ for industrial robots

@@ -84,17 +84,18 @@ Entreprise : [BePro](http://bepro.uz/en/)
 ### Compétences
 
 * Maîtrisées :
-	* C, C++, Python
+	* **C, C++, Python**
 	* Développement multi-plateformes, documentation
 	* Création de paquets d'installation (OS X, Linux, Windows)
 	* Git, Mercurial, SVN
 	* Design Patterns, Test Driven Development
+	* Intégration continue (Travis, Jenkins, Appveyor)
 	* Matlab
 	* JavaScript, Node.js, npm, Three.js, jQuery
 	* HTML, CSS, Bootstrap, Markdown, Latex
+	* Applications multi-thread et temps réel
 * Familier :
 	* Objective-C, Pharo, C#.NET, PHP, SQL
-	* Intégration continue, Jenkins
 	* OpenGL, OpenCV
 	* ROS (Robot Operating System)
 	* Programmation en Val/V+ pour les robots industriels
