@@ -14,7 +14,6 @@ Addresse : Lille, France<br>
 ### Présentation
 
 <p style="padding-left:2em;">
-Je suis un ingénieur qui adore la programmation, l'apprentissage et le travail d'équipe.<br>
 Je préfère la simplicité à la complexité et la connaissance à l'ignorance.
 </p>
 
@@ -77,7 +76,7 @@ Entreprise : ProDVD
 Développement d'un logiciel pour cataloguer les livres de la bibliothèque <br>municipale et gestion de base de données<br>
 Entreprise : [BePro](http://bepro.uz/en/)
 
-<!--<br><br><br><br><br><br><br><br><br><br><br><br>-->
+<!--<br><br><br><br><br><br>-->
 
 ---
 
@@ -137,5 +136,3 @@ Entreprise : [BePro](http://bepro.uz/en/)
 * Langues étrangères
 * Faire du vélo
 * Lecture
-
----

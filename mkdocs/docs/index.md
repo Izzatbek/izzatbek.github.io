@@ -11,10 +11,9 @@ Age: 25 years old
 
 ---
 
-### Summary
+### Presentation
 
 <p style="padding-left:2em;">
-I'm an engineer who likes programming, learning and team-working.<br>
 I prefer simplicity over complexity and knowledge over ignorance.
 </p>
 
@@ -78,7 +77,7 @@ Application development for book catalogization of the city libraries<br>
 Database management (Microsoft SQL)<br>
 Company: [BePro](http://bepro.uz/en/)
 
-<!--<br><br><br><br><br><br><br><br><br><br><br><br>-->
+<!--<br><br><br><br><br><br>-->
 
 ---
 
@@ -140,5 +139,3 @@ and analytical skills
 * Foreign languages
 * Gym and cycling
 * Reading
-
----
