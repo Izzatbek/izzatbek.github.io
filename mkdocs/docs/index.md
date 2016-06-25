@@ -2,20 +2,11 @@
 
 ---
 
-<img src="img/me.png" width="13%" height="auto" align="right">
+<center>
 Phone: +33 6 66 51 75 71<br>
 E-mail: [izzatbek@gmail.com](mailto:izzatbek@gmail.com)<br>
-Web-site: [izzatbek.github.io](https://izzatbek.github.io)<br>
-Location: Lille, France<br>
-Age: 25 years old
-
----
-
-### Presentation
-
-<p style="padding-left:2em;">
-I prefer simplicity over complexity and knowledge over ignorance.
-</p>
+Location: Lille, France
+</center>
 
 ---
 
@@ -39,10 +30,7 @@ Improvement and development of a cross-platform library [libpointing](http://lib
 which allows direct access to the USB-HID pointing devices<br>
 and can apply different transfer functions to the raw input.<br>
 Creation of *Java*, *Python*, *Node.js* bindings and distribution with *npm*, *apt*, *brew*, etc.<br>
-Company: [INRIA](http://www.inria.fr/en/) with 
-[Nicolas Roussel](http://interaction.lille.inria.fr/~roussel/)
-and
-[Géry Casiez](http://cristal.univ-lille.fr/~casiez/)
+Company: [INRIA](http://www.inria.fr/en/)
 
 * **Master's Project** (C++, Python, Matlab)
 <span style="float:right;">2014 (6 months)</span><br>
@@ -50,15 +38,13 @@ Implementation of Pedestrian Detection and Tracking system
 [[thesis]](https://dl.dropboxusercontent.com/u/61610962/thesis.pdf)
 [[video]](https://www.youtube.com/watch?v=o-HAwKvbs8c)<br>
 using Computer Vision and Machine Learning algorithms<br>
-Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/) with 
-[Philippe Martinet](http://www.irccyn.ec-nantes.fr/~martinet/home.html)
+Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/)
 
 * **Intern** (Python)
 <span style="float:right;">2013 (4 months)</span><br>
 Development of [OpenSymoro+](https://github.com/symoro/symoro) (SYmbolic MOdeling of RObots),<br>
 including 3D visualization and UI using *PyOpenGL* and *wxPython*<br>
-Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/) with 
-[Wisama Khalil](https://scholar.google.fr/citations?user=cgizGIoAAAAJ&hl=en)
+Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/)
 
 * **Software engineer** (Objective-C)
 <span style="float:right;">2011 - 2012 (8 months)</span><br>
@@ -77,7 +63,7 @@ Application development for book catalogization of the city libraries<br>
 Database management (Microsoft SQL)<br>
 Company: [BePro](http://bepro.uz/en/)
 
-<!--<br><br><br><br><br><br>-->
+<!--<br><br><br><br><br><br><br><br><br><br>-->
 
 ---
 
@@ -85,17 +71,14 @@ Company: [BePro](http://bepro.uz/en/)
 
 * Knowledgeable:
 	* **C, C++, Python**
-	* Cross-platform development, documentation
-	* Building, and packaging (OS X, Linux, Windows)
-	* Git, Mercurial, SVN
+	* Cross-platform development, documentation, packaging
 	* Design Patterns, Test Driven Development
-	* Continuous Integration, Deployment (Travis, Jenkins, Appveyor)
-	* Matlab
-	* JavaScript, Node.js, npm, Three.js, jQuery
-	* HTML, CSS, Bootstrap, Markdown, Latex
+	* Continuous Integration, Deployment
 	* Multi-threaded, real-time applications
 * Familiar:
-	* Objective-C, Pharo, C#.NET, PHP, SQL
+	* JavaScript, Node.js, npm, Three.js, jQuery
+	* Matlab, Objective-C, Pharo, C#.NET, PHP, SQL
+	* HTML, CSS, Bootstrap, Markdown, Latex
 	* OpenGL, OpenCV
 	* ROS (Robot Operating System)
 	* Programming in Val/V+ for industrial robots

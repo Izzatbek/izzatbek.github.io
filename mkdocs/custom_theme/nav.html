@@ -19,16 +19,6 @@
         <div class="navbar-collapse collapse">
             <!-- Main navigation -->
             <ul class="nav navbar-nav">
-                <li>
-                    <a href="{{ site_url }}/cv.pdf" target="_blank">Download CV</a>
-                </li>
-                <li>
-                    <a href="{{ site_url }}/cv_fr.pdf" target="_blank">Télécharger</a>
-                </li>
-            </ul>
-
-            <!-- Search, Navigation and Repo links -->
-            <ul class="nav navbar-nav navbar-right">
                 {% for nav_item in nav %}
                     {% if nav_item.children %}
                         <li class="dropdown{% if nav_item.active %} active{% endif %}">
@@ -47,6 +37,13 @@
                         </li>
                     {% endif %}
                 {% endfor %}
+                <li>
+                    <a href="{{ site_url }}/cv.pdf" target="_blank">Download CV</a>
+                </li>
+            </ul>
+
+            <!-- Search, Navigation and Repo links -->
+            <ul class="nav navbar-nav navbar-right">
                 
                 {% if repo_url %}
                 <li>

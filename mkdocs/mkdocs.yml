@@ -10,6 +10,7 @@ theme_dir: ./custom_theme
 site_description: Izzatbek Mukhanov's personal web site
 site_author: Izzat Mukhanov
 
-pages:
-    - 'English': 'index.md'
-    - 'Français': 'cv_francais.md'
+#pages:
+#    - 'English': 'index.md'
+
+extra_css: [mkdocs.css]

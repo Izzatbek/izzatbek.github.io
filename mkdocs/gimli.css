@@ -1,14 +1,10 @@
 body {
 	margin: 50;
-    font-family: "Palatino";
-    font-size: 13px;
-    line-height: 135%;
-}
-img {
-	margin: 2 -3 0 0;
+	font-family: "Palatino";
+	font-size: 13px;
+	line-height: 141%;
 }
 
 h1, h2, h3, h4 {
-    text-align: center;
+	text-align: center;
 }
-
