@@ -1,5 +1,6 @@
 # pip install mkdocs
 # [sudo] gem install gimli
+# brew install wkhtmltopdf (otherwise doesn't work)
 
 all: pdf site
 
