@@ -25,7 +25,7 @@ Location: Lille, France
 ### Work Experience
 
 * **Engineer**, developer (C, C++, Python, Node.js)
-<span style="float:right;">2014 - 2016</span><br>
+<span style="float:right;">2014 – 2016</span><br>
 Improvement and development of a cross-platform library [libpointing](http://libpointing.org)<br>
 which allows direct access to the USB-HID pointing devices<br>
 and can apply different transfer functions to the raw input.<br>
@@ -47,18 +47,18 @@ including 3D visualization and UI using *PyOpenGL* and *wxPython*<br>
 Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/)
 
 * **Software engineer** (Objective-C)
-<span style="float:right;">2011 - 2012 (8 months)</span><br>
+<span style="float:right;">2011 – 2012</span><br>
 Development of client-server applications for iOS and Cocos2D games<br>
 Company: [SSD](http://www.ssdsoftwaresolutions.com)
 
-* **Intern**, software developer (C/C++)
-<span style="float:right;">2010 - 2011 (10 months)</span><br>
+* **Part-time** software developer (C/C++)
+<span style="float:right;">2010 – 2011</span><br>
 Low-level API development for Blu-ray disks processing<br>
 Implementation of the logging system for the project<br>
 Company: ProDVD
 
-* **Intern**, software developer and instructor (C#.NET)
-<span style="float:right;">2009 - 2010 (13 months)</span><br>
+* **Part-time** software developer and instructor (C#.NET)
+<span style="float:right;">2009 – 2010</span><br>
 Application development for book catalogization of the city libraries<br>
 Database management (Microsoft SQL)<br>
 Company: [BePro](http://bepro.uz/en/)
