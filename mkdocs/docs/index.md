@@ -3,9 +3,9 @@
 ---
 
 <center>
-Phone: +33 6 66 51 75 71<br>
+Phone: +33 666 517 571<br>
 E-mail: [izzatbek@gmail.com](mailto:izzatbek@gmail.com)<br>
-Location: Lille, France
+Location: Paris, France
 </center>
 
 ---
@@ -23,6 +23,12 @@ Location: Lille, France
 ---
 
 ### Work Experience
+
+* **Software Development Engineer**
+<span style="float:right;">2016 – now</span><br>
+Cross-platform development and maintenance<br>
+Kindle Reader applications<br>
+Company: **Amazon**
 
 * **Engineer**, developer (C, C++, Python, Node.js)
 <span style="float:right;">2014 – 2016</span><br>
@@ -63,7 +69,7 @@ Application development for book catalogization of the city libraries<br>
 Database management (Microsoft SQL)<br>
 Company: [BePro](http://bepro.uz/en/)
 
-<!--<br><br><br><br><br><br><br><br><br><br>-->
+<br><br><br><br>
 
 ---
 
