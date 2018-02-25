@@ -1,9 +1,7 @@
-# pip install mkdocs
-# [sudo] gem install gimli
-# brew install wkhtmltopdf (otherwise doesn't work)
-
 all: pdf site
 
+# pip install mkdocs
+# pip install mkdocs-bootswatch
 site:
 	@mkdocs build
 	@cp -R site/* ../
@@ -11,7 +9,10 @@ site:
 	@echo Moved the content of directory site into root
 	@echo Ready to commit and push
 
+
+# docker build -t walle/gimli:latest .
+# See https://github.com/walle/gimli
 pdf:
-	gimli -file docs/index.md -outputfilename ../cv
-	#gimli -file docs/cv_francais.md -outputfilename ../cv_fr
+	docker run -v $(shell pwd):/tmp/gimli walle/gimli -f /tmp/gimli/docs/index.md -s /tmp/gimli/gimli.css -outputfilename /tmp/gimli/cv
+	@mv -f cv.pdf ../cv.pdf
 	@echo Updated CV

@@ -4,8 +4,9 @@ repo_url: https://github.com/izzatbek
 
 google_analytics: ['UA-77054143-1', 'izzatbek.github.io']
 
-theme: yeti
-theme_dir: ./custom_theme
+theme:
+  name: yeti
+  custom_dir: ./custom_theme
 
 site_description: Izzatbek Mukhanov's personal web site
 site_author: Izzat Mukhanov

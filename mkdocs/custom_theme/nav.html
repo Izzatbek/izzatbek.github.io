@@ -3,6 +3,7 @@
 
         <!-- Collapsed navigation -->
         <div class="navbar-header">
+            {%- if nav|length>1 or (page and (page.next_page or page.previous_page)) or config.repo_url %}
             <!-- Expander button -->
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="sr-only">Toggle navigation</span>
@@ -10,53 +11,39 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+            {%- endif %}
 
-            <!-- Main title -->
-            <a class="navbar-brand" href="{{ homepage_url }}">{{ site_name }}</a>
+          {%- block site_name %}
+            <a class="navbar-brand" href="{{ nav.homepage.url }}">{{ config.site_name }}</a>
+          {%- endblock %}
         </div>
 
         <!-- Expanded navigation -->
         <div class="navbar-collapse collapse">
-            <!-- Main navigation -->
-            <ul class="nav navbar-nav">
-                {% for nav_item in nav %}
-                    {% if nav_item.children %}
-                        <li class="dropdown{% if nav_item.active %} active{% endif %}">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ nav_item.title }} <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                            {% for nav_item in nav_item.children %}
-                                <li {% if nav_item.active %}class="active"{% endif %}>
-                                    <a href="{{ nav_item.url }}">{{ nav_item.title }}</a>
-                                </li>
-                            {% endfor %}
-                            </ul>
-                        </li>
-                    {% else %}
-                        <li {% if nav_item.active %}class="active"{% endif %}>
-                            <a href="{{ nav_item.url }}">{{ nav_item.title }}</a>
-                        </li>
-                    {% endif %}
-                {% endfor %}
-                <li>
-                    <a href="{{ site_url }}/cv.pdf" target="_blank">Download CV</a>
-                </li>
-            </ul>
+          {%- block site_nav %}
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="{{ config.site_url }}/cv.pdf" target="_blank">Download CV</a>
+                    </li>
+                </ul>
+          {%- endblock %}
 
-            <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
-                
-                {% if repo_url %}
-                <li>
-                    <a href="{{ repo_url }}">
-                        {% if repo_name == 'GitHub' %}
-                            <i class="fa fa-github"></i>
-                        {% elif repo_name == 'Bitbucket' %}
-                            <i class="fa fa-bitbucket"></i>
-                        {% endif %}
-                        {{ repo_name }}
-                    </a>
-                </li>
-                {% endif %}
+              {%- block repo %}
+                {%- if config.repo_url %}
+                    <li>
+                        <a href="{{ config.repo_url }}">
+                            {%- if config.repo_name == 'GitHub' -%}
+                                <i class="fa fa-github"></i> {{ config.repo_name }}
+                            {%- elif config.repo_name == 'Bitbucket' -%}
+                                <i class="fa fa-bitbucket"></i> {{ config.repo_name }}
+                            {%- else -%}
+                            {{ config.repo_name }}
+                            {%- endif -%}
+                        </a>
+                    </li>
+                {%- endif %}
+              {%- endblock %}
             </ul>
         </div>
     </div>

@@ -18,7 +18,7 @@ Location: Paris, France
 
 * B.S. in Telecommunications
 <span style="float:right;">2007 – 2011</span><br>
-[Tashkent University of Information Technologies](http://www.tuit.uz/?lang=en)
+[Tashkent University of Information Technologies](https://tuit.uz/en/site/index?lang=en)
 
 ---
 
@@ -27,12 +27,13 @@ Location: Paris, France
 * **Software Development Engineer**
 <span style="float:right;">2016 – now</span><br>
 Cross-platform development and maintenance<br>
-Kindle Reader applications<br>
+• Kindle: reader applications for Mac and PC<br>
+• Prime Air: simulations, cloud services, traffic management<br>
 Company: **Amazon**
 
-* **Engineer**, developer (C, C++, Python, Node.js)
+* **Engineer**, developer (C, C++, Python, JavaScript)
 <span style="float:right;">2014 – 2016</span><br>
-Improvement and development of a cross-platform library [libpointing](http://libpointing.org)<br>
+Improvement and development of a cross-platform library [libpointing](https://github.com/INRIA/libpointing)<br>
 which allows direct access to the USB-HID pointing devices<br>
 and can apply different transfer functions to the raw input.<br>
 Creation of *Java*, *Python*, *Node.js* bindings and distribution with *npm*, *apt*, *brew*, etc.<br>
@@ -57,19 +58,19 @@ Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/)
 Development of client-server applications for iOS and Cocos2D games<br>
 Company: [SSD](http://www.ssdsoftwaresolutions.com)
 
-* **Part-time** software developer (C/C++)
+* **Intern**, software developer (C/C++)
 <span style="float:right;">2010 – 2011</span><br>
 Low-level API development for Blu-ray disks processing<br>
 Implementation of the logging system for the project<br>
 Company: ProDVD
 
-* **Part-time** software developer and instructor (C#.NET)
+* **Intern**, software developer and instructor (C#.NET)
 <span style="float:right;">2009 – 2010</span><br>
 Application development for book catalogization of the city libraries<br>
 Database management (Microsoft SQL)<br>
-Company: [BePro](http://bepro.uz/en/)
+Company: [BePro](http://bepro.uz/en-US)
 
-<br><br><br><br>
+<br><br><br>
 
 ---
 
@@ -81,10 +82,10 @@ Company: [BePro](http://bepro.uz/en/)
 	* Design Patterns, Test Driven Development
 	* Continuous Integration, Deployment
 	* Multi-threaded, real-time applications
+	* AWS infrastructure
 * Familiar:
-	* JavaScript, Node.js, npm, Three.js, jQuery
+	* JavaScript, Node.js, Three.js
 	* Matlab, Objective-C, Pharo, C#.NET, PHP, SQL
-	* HTML, CSS, Bootstrap, Markdown, Latex
 	* OpenGL, OpenCV
 	* ROS (Robot Operating System)
 	* Programming in Val/V+ for industrial robots
