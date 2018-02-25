@@ -42,7 +42,7 @@ Company: [INRIA](http://www.inria.fr/en/)
 * **Master's Project** (C++, Python, Matlab)
 <span style="float:right;">2014 (6 months)</span><br>
 Implementation of Pedestrian Detection and Tracking system
-[[thesis]](https://dl.dropboxusercontent.com/u/61610962/thesis.pdf)
+[[thesis]](https://izzatbek.github.io/thesis.pdf)
 [[video]](https://www.youtube.com/watch?v=o-HAwKvbs8c)<br>
 using Computer Vision and Machine Learning algorithms<br>
 Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/)
