@@ -35,11 +35,11 @@ Company: **Amazon**
 <span style="float:right;">2014 – 2016</span><br>
 Improvement and development of a cross-platform library [libpointing](https://github.com/INRIA/libpointing)<br>
 which allows direct access to the USB-HID pointing devices<br>
-and can apply different transfer functions to the raw input.<br>
+and can apply different transfer functions to the raw input<br>
 Creation of *Java*, *Python*, *Node.js* bindings and distribution with *npm*, *apt*, *brew*, etc.<br>
 Company: [INRIA](http://www.inria.fr/en/)
 
-* **Master's Project** (C++, Python, Matlab)
+* **Master's Project** (C++, Python, MATLAB)
 <span style="float:right;">2014 (6 months)</span><br>
 Implementation of Pedestrian Detection and Tracking system
 [[thesis]](https://izzatbek.github.io/thesis.pdf)
@@ -53,7 +53,7 @@ Development of [OpenSymoro+](https://github.com/symoro/symoro) (SYmbolic MOdelin
 including 3D visualization and UI using *PyOpenGL* and *wxPython*<br>
 Laboratory: [IRCCyN](http://www.irccyn.ec-nantes.fr/en/)
 
-* **Software engineer** (Objective-C)
+* **Software developer** (Objective-C)
 <span style="float:right;">2011 – 2012</span><br>
 Development of client-server applications for iOS and Cocos2D games<br>
 Company: [SSD](http://www.ssdsoftwaresolutions.com)
@@ -64,7 +64,7 @@ Low-level API development for Blu-ray disks processing<br>
 Implementation of the logging system for the project<br>
 Company: ProDVD
 
-* **Intern**, software developer and instructor (C#.NET)
+* **Intern**, software developer, instructor (C#.NET)
 <span style="float:right;">2009 – 2010</span><br>
 Application development for book catalogization of the city libraries<br>
 Database management (Microsoft SQL)<br>
@@ -85,7 +85,7 @@ Company: [BePro](http://bepro.uz/en-US)
 	* AWS infrastructure
 * Familiar:
 	* JavaScript, Node.js, Three.js
-	* Matlab, Objective-C, Pharo, C#.NET, PHP, SQL
+	* MATLAB, Objective-C, Pharo, C#.NET, PHP, SQL
 	* OpenGL, OpenCV
 	* ROS (Robot Operating System)
 	* Programming in Val/V+ for industrial robots
