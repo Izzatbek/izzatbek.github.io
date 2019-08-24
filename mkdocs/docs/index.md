@@ -10,26 +10,20 @@ Location: Paris, France
 
 ---
 
-### Education
-
-* [M.S. in Robotics, Control Engineering, Applied Informatics](http://masteraria.irccyn.ec-nantes.fr/index.php/presentationaria-en)
-<span style="float:right;">2012 – 2014</span><br>
-École Centrale de Nantes
-
-* B.S. in Telecommunications
-<span style="float:right;">2007 – 2011</span><br>
-[Tashkent University of Information Technologies](https://tuit.uz/en/site/index?lang=en)
-
----
-
 ### Work Experience
 
 * **Software Development Engineer**
 <span style="float:right;">2016 – now</span><br>
-Cross-platform development and maintenance<br>
-• Kindle: reader applications for Mac and PC<br>
-• Prime Air: simulations, cloud services, traffic management<br>
-Company: **Amazon**
+• Kindle: Maintenance of reader applications for Mac and PC (Qt, C++)<br>
+• Prime Air: Autonomous 30 min delivery system by drones<br>
+&emsp;<b>Successfully designed, implemented and delivered (used in production):</b><br>
+&emsp;&emsp;• Highly scalable (multi-threaded) vehicle simulator that supports time accelerations.<br>
+&emsp;&emsp;• Vehicle-agnostic autonomous path planning algorithms.<br>
+&emsp;<b>Significant contributions:</b><br>
+&emsp;&emsp;• Improvement and maintenance of multiple AWS web services.<br>
+&emsp;&emsp;• Operational (metric reporting, package management system, testing strategy, etc.).<br>
+&emsp;&emsp;• Terrain client (to query terrain information for a geographical area) library.<br>
+Company: <u>**Amazon**</u>
 
 * **Engineer**, developer (C, C++, Python, JavaScript)
 <span style="float:right;">2014 – 2016</span><br>
@@ -62,7 +56,7 @@ Company: [SSD](http://www.ssdsoftwaresolutions.com)
 <span style="float:right;">2010 – 2011</span><br>
 Low-level API development for Blu-ray disks processing<br>
 Implementation of the logging system for the project<br>
-Company: ProDVD
+Company: <u>ProDVD</u>
 
 * **Intern**, software developer, instructor (C#.NET)
 <span style="float:right;">2009 – 2010</span><br>
@@ -70,37 +64,36 @@ Application development for book catalogization of the city libraries<br>
 Database management (Microsoft SQL)<br>
 Company: [BePro](http://bepro.uz/en-US)
 
-<br><br><br>
+<br><br><br><br>
 
----
+### Education
+
+* [M.S. in Robotics, Control Engineering, Applied Informatics](http://masteraria.irccyn.ec-nantes.fr/index.php/presentationaria-en)
+<span style="float:right;">2012 – 2014</span><br>
+École Centrale de Nantes
+
+* B.S. in Telecommunications
+<span style="float:right;">2007 – 2011</span><br>
+[Tashkent University of Information Technologies](https://tuit.uz/en/site/index?lang=en)
 
 ### Professional Skills
 
 * Knowledgeable:
-	* **C, C++, Python**
-	* Cross-platform development, documentation, packaging
-	* Design Patterns, Test Driven Development
-	* Continuous Integration, Deployment
+	* **Java, Python, C++**
 	* Multi-threaded, real-time applications
 	* AWS infrastructure
+	* Design Patterns, Test Driven Development, Continuous Integration/Deployment
 * Familiar:
+	* Kafka, Websockets, Netty, Protobuf
 	* JavaScript, Node.js, Three.js
 	* MATLAB, Objective-C, Pharo, C#.NET, PHP, SQL
 	* OpenGL, OpenCV
 	* ROS (Robot Operating System)
-	* Programming in Val/V+ for industrial robots
 * Theoretical background:
+	* Path planning algorithms
+	* Math, Optimization, Simulation
 	* Computer Vision, Machine Learning, Artificial Intelligence
 	* Robot Programming, Modeling and Control
-	* Algorithms and Data Structures
-	* Math, Optimization, Simulation
-
----
-
-### Publications
-
-* **[OpenSYMORO : An open-source software package for Symbolic Modelling of Robots](https://hal.archives-ouvertes.fr/hal-01025919)** <br>
-2014 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (355)
 
 ---
 
@@ -111,8 +104,7 @@ and analytical skills
 * Excellent interpersonal and communications skills
 * Life-long learning oriented
 * Driver’s license
-
----
+* Publication: **[OpenSYMORO : An open-source software package for Symbolic Modelling of Robots](https://hal.archives-ouvertes.fr/hal-01025919)**, 2014 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (355)
 
 ### Languages
 
@@ -120,8 +112,6 @@ and analytical skills
 * French - fluent
 * Russian - native
 * Uzbek - native
-
----
 
 ### Hobbies
 
