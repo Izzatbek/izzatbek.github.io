@@ -12,17 +12,18 @@ Location: Paris, France
 
 ### Work Experience
 
-* **Software Development Engineer**
+* **Software Development Engineer & Tech Lead**
 <span style="float:right;">2016 – now</span><br>
-• Kindle: Maintenance of reader applications for Mac and PC (Qt, C++)<br>
-• Prime Air: Autonomous 30 min delivery system by drones<br>
-&emsp;<b>Successfully designed, implemented and delivered (used in production):</b><br>
-&emsp;&emsp;• Highly scalable (multi-threaded) vehicle simulator that supports time accelerations.<br>
-&emsp;&emsp;• Vehicle-agnostic autonomous path planning system.<br>
-&emsp;<b>Significant contributions:</b><br>
-&emsp;&emsp;• Improvement and maintenance of multiple AWS web services.<br>
-&emsp;&emsp;• Operational (metric reporting, package management system, testing strategy, etc.).<br>
-&emsp;&emsp;• Terrain client (to query terrain information for a geographical area) library.<br>
+Prime Air: Autonomous 30 min delivery system by drones<br>
+<b>Successfully designed, implemented and delivered (used in production):</b><br>
+&emsp;• Highly scalable vehicle simulator that supports time accelerations.<br>
+&emsp;• Vehicle-agnostic autonomous path planning system.<br>
+<b>Significant contributions:</b><br>
+&emsp;• Designed and led the implementation of integration tests of multiple teams' services.<br>
+&emsp;• Simplified various flows/architecture/implementations across Prime Air organization.<br>
+&emsp;• Deployment, maintenance and improvement of multiple AWS web services.<br>
+&emsp;• Operational excellence: metric reporting, package management system, etc.<br>
+&emsp;• Terrain client (to query terrain information for a geographical area) library.<br>
 Company: <u>**Amazon**</u>
 
 * **Engineer**, developer (C, C++, Python, JavaScript)
@@ -64,7 +65,7 @@ Application development for book catalogization of the city libraries<br>
 Database management (Microsoft SQL)<br>
 Company: [BePro](http://bepro.uz/en-US)
 
-<br><br><br><br>
+<br><br><br>
 
 ### Education
 
@@ -99,6 +100,7 @@ Company: [BePro](http://bepro.uz/en-US)
 
 ### Miscellaneous
 
+* Driven by high-quality results, simplicity and usage of appropriate abstraction layers.
 * Highly adaptable in quickly changing technical environments with very strong organizational
 and analytical skills
 * Excellent interpersonal and communications skills
@@ -116,6 +118,5 @@ and analytical skills
 ### Hobbies
 
 * Following online courses (MOOCs)
-* Foreign languages
 * Gym and cycling
 * Reading
